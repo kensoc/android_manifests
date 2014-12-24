@@ -515,4 +515,5 @@
 <!-- Kensoc Kendroid changes starts here -->
   <project path="vendor/broadcom/hammerhead" name="kendroid/android_vendor_broadcom_hammerhead" remote="kendroid" revision="kendroid-5.0.1_r1" />
   <project path="vendor/broadcom/hammerhead" name="kendroid/android_vendor_lge_hammerhead" remote="kendroid" revision="kendroid-5.0.1_r1" />
+  <project path="vendor/broadcom/hammerhead" name="kendroid/android_vendor_qcom_hammerhead" remote="kendroid" revision="kendroid-5.0.1_r1" />
 </manifest>
