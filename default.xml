@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="kendroid"
-           fetch="https://gitlab.com/kendroid/"
+           fetch="https://gitlab.com"
   />
   <remote  name="aosp"
            fetch="https://android.googlesource.com/"
@@ -513,5 +513,5 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
 
 <!-- Kensoc Kendroid changes starts here -->
-  <project path="vendor/broadcom/hammerhead" name="android_vendor_broadcom_hammerhead" remote="kendroid" revision="kendroid-5.0.1_r1" />
+  <project path="vendor/broadcom/hammerhead" name="kendroid/android_vendor_broadcom_hammerhead" remote="kendroid" revision="kendroid-5.0.1_r1" />
 </manifest>
