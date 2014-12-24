@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="Kendroid"
+  <remote  name="kendroid"
            fetch="https://gitlab.com/"
   />
   <remote  name="aosp"
@@ -512,8 +512,8 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
 
-<!-- Kensoc Kendroid changes starts here -->
-  <project path="vendor/broadcom/hammerhead" name="Kendroid/android_vendor_broadcom_hammerhead" remote="Kendroid" revision="Kendroid-5.0.1_r1" />
-  <project path="vendor/lge/hammerhead" name="Kendroid/android_vendor_lge_hammerhead" remote="Kendroid" revision="Kendroid-5.0.1_r1" />
-  <project path="vendor/qcom/hammerhead" name="Kendroid/android_vendor_qcom_hammerhead" remote="Kendroid" revision="Kendroid-5.0.1_r1" />
+<!-- Kensoc kendroid changes starts here -->
+  <project path="vendor/broadcom/hammerhead" name="kendroid/android_vendor_broadcom_hammerhead" remote="kendroid" revision="kendroid-5.0.1_r1" />
+  <project path="vendor/lge/hammerhead" name="kendroid/android_vendor_lge_hammerhead" remote="kendroid" revision="kendroid-5.0.1_r1" />
+  <project path="vendor/qcom/hammerhead" name="kendroid/android_vendor_qcom_hammerhead" remote="kendroid" revision="kendroid-5.0.1_r1" />
 </manifest>
