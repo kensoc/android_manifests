@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="kendroid"
-           fetch="https://gitlab.com"
+           fetch="https://gitlab.com/"
   />
   <remote  name="aosp"
            fetch="https://android.googlesource.com/"
