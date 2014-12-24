@@ -512,6 +512,6 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
 
-<!-- Kensoc Kendroid changes starts here --/>
+<!-- Kensoc Kendroid changes starts here -->
   <project path="vendor/broadcom/hammerhead" name="android_vendor_broadcom_hammerhead" remote="kendroid" revision="kendroid-5.0.1_r1" />
 </manifest>
