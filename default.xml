@@ -513,7 +513,7 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
 
 <!-- Kensoc kendroid changes starts here -->
-  <project path="vendor/broadcom/hammerhead" name="android_vendor_broadcom_hammerhead" remote="kendroid" revision="kendroid-5.0.1_r1" />
-  <project path="vendor/lge/hammerhead" name="android_vendor_lge_hammerhead" remote="kendroid" revision="kendroid-5.0.1_r1" />
-  <project path="vendor/qcom/hammerhead" name="android_vendor_qcom_hammerhead" remote="kendroid" revision="kendroid-5.0.1_r1" />
+  <project path="vendor/broadcom/hammerhead" name="kendroid_vendor_broadcom_hammerhead" remote="kendroid" revision="kendroid-5.0.1_r1" />
+  <project path="vendor/lge/hammerhead" name="kendroid_vendor_lge_hammerhead" remote="kendroid" revision="kendroid-5.0.1_r1" />
+  <project path="vendor/qcom/hammerhead" name="kendroid_vendor_qcom_hammerhead" remote="kendroid" revision="kendroid-5.0.1_r1" />
 </manifest>
